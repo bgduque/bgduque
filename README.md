@@ -29,7 +29,8 @@
 ###
 
 <h3>🤓 Education</h3>
-<p align="left">- Clarendon College (Elementary School)<br><br>- Aurora National Science High (Secondary Highschool)<br><br>- New Era University (Present)</p>
+<p align="left">**Clarendon College**<br>- 2006-2012<br><br>**Aurora National Science Highschool**<br>- 2013 - 2021<br><br>**New Era University**<br> - 2021-Present
+</p>
 
 ###
 
