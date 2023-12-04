@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
 </div>
 
-###
  <h1 align="center">👩‍💻  About Me</h1>
 
 ## 🤓 Education
