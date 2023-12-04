@@ -1,15 +1,5 @@
 <div align="center">
-  <img height="140" src="https://avatars.githubusercontent.com/u/111956536?v=4"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  <img height="140" src="[https://avatars.githubusercontent.com/u/111956536?v=4](https://scontent-mnl1-2.xx.fbcdn.net/v/t39.30808-6/291491592_7650733765000854_8169744290630256098_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=9c7eae&_nc_aid=0&_nc_eui2=AeGdmbNoC1PSXdJVmIiJkq5Znt1wPWKtq7ee3XA9Yq2rtxV7OTRLQzewtyanBWRxeDZHFheYU8SbxORjVu32k5e-&_nc_ohc=NOF8Wh5kpewAX9GHIix&_nc_ht=scontent-mnl1-2.xx&oh=00_AfC6xp9JDzzpQN4vlNXkbWsA6FP9hITzPlxJAyHugIsr9g&oe=6571EC51)"  />
 </div>
 
  <h1 align="center">👩‍💻  About Me</h1>
@@ -23,6 +13,9 @@
   - **BS Computer Science**
   - 2021-Present
 ###
+
+## 📜 Certification Accomplished
+- []
 
 
 <h3 align="left">💻 Language(s) Mastered:</h3>
