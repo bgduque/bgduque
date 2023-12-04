@@ -30,6 +30,7 @@
 - **Aurora National Science Highschool**
   - 2013 - 2021
 - **New Era University**
+  - **BS Computer Science
   - 2021-Present
 ###
 
