@@ -14,15 +14,7 @@
 
 ###
 
-<h1 align="center">What's up? 👀</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Boris from the Philippines!<br><br>- 🔭 I’m working as IMS Analyst Intern.<br>- 📚 I'm currently learning R, Swift, & Objective-C.<br>- ⚡ In my free time I sleep.</p>
+<h1 align="center">👩‍💻  About Me</h1>
 
 ## 🤓 Education
 - **Clarendon College**
