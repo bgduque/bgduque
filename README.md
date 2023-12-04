@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="linkedin.com"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
@@ -24,7 +24,7 @@
 
 <p align="left">I'm Boris from the Philippines!<br><br>- 🔭 I’m working as IMS Analyst Intern.<br>- 📚 I'm currently learning R, Swift, & Objective-C.<br>- ⚡ In my free time I sleep.</p>
 
-###
+### 🤓 Education
 
 <h3>🤓 Education</h3>
 <p align="left">**Clarendon College**<br>- 2006-2012<br>**Aurora National Science Highschool**<br>- 2013 - 2021<br> **New Era University**<br> - 2021-Present
