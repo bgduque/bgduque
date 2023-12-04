@@ -24,12 +24,13 @@
 
 <p align="left">I'm Boris from the Philippines!<br><br>- 🔭 I’m working as IMS Analyst Intern.<br>- 📚 I'm currently learning R, Swift, & Objective-C.<br>- ⚡ In my free time I sleep.</p>
 
-###
-
-<h3>🤓 Education</h3>
-<p align="left">- **Clarendon College**<br>- 2006-2012<br>**Aurora National Science Highschool**<br>- 2013 - 2021<br> **New Era University**<br> - 2021-Present
-</p>
-
+## 🤓 Education
+- **Clarendon College**
+  - 2006-2012
+- **Aurora National Science Highschool**
+  - 2013 - 2021
+- **New Era University**
+  - 2021-Present
 ###
 
 
