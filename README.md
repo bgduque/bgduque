@@ -3,9 +3,8 @@
 </div>
 
  <h1 align="center">👩‍💻  About Me</h1>
-##
 
-Hello! I am Boris a passionate Programmer from the Philippines! I thrive on tackling complex problems and crafting elegrant solutions. My journey started when I took the course of BS in Computer Science
+Hello! I am Boris Gamaliel D. Duque a passionate Programmer from the Philippines! I thrive on tackling complex problems and crafting elegrant solutions. My journey started when I took the course of BS in Computer Science
 
 ## 🤓 Education
 - **Clarendon College**
