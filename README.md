@@ -25,6 +25,7 @@ Hello! I am Boris Gamaliel D. Duque a passionate Programmer from the Philippines
 
 ## 📜 Certifications Accomplished
 - **[Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7B0188378E81F332E352328050708DBA6EFE7F6B45AC82546AEA80B227B5F124)**
+  <br>
   Issued by: Oracle
   Date Issued: November 23, 2023
 - **[Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BB48BE1C195AF03283BB915754185DFA79639443B263AE0AE37D7C99C2B75CAA)**
