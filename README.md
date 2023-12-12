@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
-  <a href="mailto:boris.dduque@gmail.com">
+  <a href="mailto:boris.dduque@gmail.com?subject=Inquiries">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=E34234&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo"  />
   </a>
   </div>
