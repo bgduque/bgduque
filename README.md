@@ -41,7 +41,7 @@ Hello! I am Boris Gamaliel D. Duque a passionate Programmer from the Philippines
   Oracle
   <br>
   Date Issued: December 3, 2023
-<h3 align="left">💻 Language(s) Mastered:</h3>
+## 💻 Language(s) Mastered:
 
 ###
 
@@ -57,7 +57,7 @@ Hello! I am Boris Gamaliel D. Duque a passionate Programmer from the Philippines
 
 ###
 
-<h3 align="left">📚 Learning: </h3>
+## 📚 Learning:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
   <img width="14" />
@@ -67,7 +67,8 @@ Hello! I am Boris Gamaliel D. Duque a passionate Programmer from the Philippines
 </div>
 
 ###
-<h3 align="left">⚙️ Tools I use:</h3>
+
+## ⚙️ Tools I use:
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
     <img width="14" />
@@ -76,7 +77,7 @@ Hello! I am Boris Gamaliel D. Duque a passionate Programmer from the Philippines
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+## 🔥 My Stats:
 
 ###
 
