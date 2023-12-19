@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="140" src="https://avatars.githubusercontent.com/u/152839576?s=400&u=9eb645b1ea46b68df114c565b9b637711afa589b&v=4"  />
+  <img height="180" src="https://avatars.githubusercontent.com/u/152839576?s=400&u=9eb645b1ea46b68df114c565b9b637711afa589b&v=4"  />
   
   [![Stackoverflow](https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge)](https://stackoverflow.com/users/23124675/boris-gamaliel-duque?tab=profile)
   [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/bgduque/)
