@@ -1,14 +1,14 @@
+<h1 align="center">👩‍💻  About Me</h1>
+ 
+Hello! I am Boris Gamaliel D. Duque a passionate Programmer from the Philippines! I thrive on tackling complex problems and crafting elegrant solutions. My journey started when I took the course of BS in Computer Science
+
 <div align="center">
-  <img height="160" src="https://avatars.githubusercontent.com/u/152839576?s=400&u=9eb645b1ea46b68df114c565b9b637711afa589b&v=4"  />
   
   [![Stackoverflow](https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge)](https://stackoverflow.com/users/23124675/boris-gamaliel-duque?tab=profile)
   [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/bgduque/)
   [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=E34234&logoColor=white&labelColor=&style=for-the-badge)](mailto:boris.dduque@gmail.com?subject=Inquiries)
 
 </div>
- <h1 align="center">👩‍💻  About Me</h1>
- 
-Hello! I am Boris Gamaliel D. Duque a passionate Programmer from the Philippines! I thrive on tackling complex problems and crafting elegrant solutions. My journey started when I took the course of BS in Computer Science
 
 ## 🤓 Education
 - **Clarendon College**
