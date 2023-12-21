@@ -13,19 +13,13 @@ Hello! I am Boris Gamaliel D. Duque a passionate Programmer from the Philippines
 ###
 
 ## 📜 Certification(s) Accomplished
-- **[Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7B0188378E81F332E352328050708DBA6EFE7F6B45AC82546AEA80B227B5F124)**
-  <br>
-  Oracle
+- **[Oracle | Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7B0188378E81F332E352328050708DBA6EFE7F6B45AC82546AEA80B227B5F124)**
   <br>
   Date Issued: November 23, 2023
-- **[Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BB48BE1C195AF03283BB915754185DFA79639443B263AE0AE37D7C99C2B75CAA)**
-  <br>
-  Oracle
+- **[Oracle | Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BB48BE1C195AF03283BB915754185DFA79639443B263AE0AE37D7C99C2B75CAA)**
   <br>
   Date Issued: November 19, 2023
-- **[Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CF3F198DCFFC7749B1CBFA21F262E0A2D924D1CDB8C98CB2208DA4D93E7B147D)**
-  <br>
-  Oracle
+- **[Oracle | Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CF3F198DCFFC7749B1CBFA21F262E0A2D924D1CDB8C98CB2208DA4D93E7B147D)**
   <br>
   Date Issued: December 3, 2023
 ## 💻 Language(s) Mastered:
