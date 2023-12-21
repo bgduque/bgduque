@@ -2,14 +2,6 @@
  
 Hello! I am Boris Gamaliel D. Duque a passionate Programmer from the Philippines! I thrive on tackling complex problems and crafting elegrant solutions. My journey started when I took the course of BS in Computer Science
 
-<div align="center">
-  
-  [![Stackoverflow](https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge)](https://stackoverflow.com/users/23124675/boris-gamaliel-duque?tab=profile)
-  [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/bgduque/)
-  [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=E34234&logoColor=white&labelColor=&style=for-the-badge)](mailto:boris.dduque@gmail.com?subject=Inquiries)
-
-</div>
-
 ## 🤓 Education
 - **Clarendon College**
   - 2006 - 2012
@@ -81,3 +73,17 @@ Hello! I am Boris Gamaliel D. Duque a passionate Programmer from the Philippines
   
   <img src="https://streak-stats.demolab.com?user=bgduque&locale=en-us&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+## 🔎 Reach out to me through:
+
+
+<div align="center">
+  
+  [![Stackoverflow](https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge)](https://stackoverflow.com/users/23124675/boris-gamaliel-duque?tab=profile)
+  [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/bgduque/)
+  [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=E34234&logoColor=white&labelColor=&style=for-the-badge)](mailto:boris.dduque@gmail.com?subject=Inquiries)
+
+</div>
+
