@@ -71,8 +71,6 @@ Hello! I am Boris Gamaliel D. Duque a passionate Programmer from the Philippines
 ###
 
 ## 🔎 Reach out to me through:
-
-
 <div align="center">
   
   [![Stackoverflow](https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge)](https://stackoverflow.com/users/23124675/boris-gamaliel-duque?tab=profile)
