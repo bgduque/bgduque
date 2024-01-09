@@ -76,6 +76,7 @@ Hello! I am Boris Gamaliel D. Duque a passionate Programmer from the Philippines
   [![Stackoverflow](https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge)](https://stackoverflow.com/users/23124675/boris-gamaliel-duque?tab=profile)
   [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/bgduque/)
   [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=E34234&logoColor=white&labelColor=&style=for-the-badge)](mailto:boris.dduque@gmail.com?subject=Inquiries)
+  [![Gmail](https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=ff641c&logoColor=white&labelColor=&style=for-the-badge)](https://gitlab.com/bgduque)
 
 </div>
 
