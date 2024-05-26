@@ -38,15 +38,13 @@ Hello! I am Boris Gamaliel D. Duque a passionate Programmer from the Philippines
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" height="40" alt="objectivec logo"  />
   <img width="14" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/r/r-original.svg" height="40" alt="r-logo" />
+  <img width="14" />
 </div>
 
 ###
 
 ## 📚 Learning:
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/r/r-original.svg" height="40" alt="r-logo" />
-</div>
-
 ###
 
 ## ⚙️ Tools I use:
