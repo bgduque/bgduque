@@ -3,12 +3,8 @@
 Hello! I am Boris Gamaliel D. Duque a Programmer from the Philippines! I thrive on tackling complex problems and crafting elegrant solutions. My journey started when I took the course of BS in Computer Science.
 
 ## 🤓 Education
-- **Clarendon College**
-  - **Primary Education** | 2006 - 2012
-- **Aurora National Science Highschool**
-  - **Secondary Education** | 2013 - 2021
 - **New Era University**
-  - **BS Computer Science** | 2021 - Present
+   **BS Computer Science** | 2021 - 2026
 ###
 
 ## 📜 Certification(s) Accomplished
